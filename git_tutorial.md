@@ -3,18 +3,18 @@
 First create a repository in Github and obtain its url - RepoURL
 
 Clone a repository
-    git clone RepoURL
+    ```git clone RepoURL```
 
 stage changes
-    git add FileName
+    ```git add FileName```
 stage all changes
-    git add .
+    ```git add . ```
 
 commit changes
-    git commit -m "message"
+    ```git commit -m "message"```
 
 push changes to remote
-    git push
+    ```git push```
 
 download or pull changes from remote
-    git pull
+    ```git pull```
